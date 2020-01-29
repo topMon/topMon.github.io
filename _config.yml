@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/topMon.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The dreams that you dare to dream.Really do come true."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/sidebar-pic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
